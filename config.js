@@ -3,8 +3,8 @@ require("dotenv").config();
 
 module.exports = {
     prefix: process.env.PREFIX || ".",
-    ownerName: process.env.OWNER_NAME || "Toxxic-Boy",
-    ownerNumber: process.env.OWNER_NUMBER || "2348165846414",
+    ownerName: process.env.OWNER_NAME || "Santos-Dad",
+    ownerNumber: process.env.OWNER_NUMBER || "2349035615458",
     mode: process.env.MODE || "public",
     region: process.env.REGION || "Nigeria",
     botName: process.env.BOT_NAME || "Rias Gremory V3",
